@@ -1,0 +1,2 @@
+rootProject.name = "SQLite RecyclerView My"
+include ':app'
